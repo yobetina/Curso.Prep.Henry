@@ -4,7 +4,7 @@
 const nuevaString = "hola";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 7;
 
 // Crea una variable booleana:
 const nuevoBool = null;
@@ -30,6 +30,7 @@ function devolverString(str) {
   // Tu código:
   
 }
+
 
 function suma(x, y) {
   // "x" e "y" son números
